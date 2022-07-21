@@ -15,12 +15,10 @@ https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-gcc-win64.
 
 
 
-cd verium Miner 
-./build.sh 
-./cpuminer -o stratum + tcp : //eu.vrm.n3rd3d .com : 3332 -u riskyfire.digitalocean -p x -t 2 sysctl -w vm.nr_hugepages = 128 My Links
-
-
 
 https://www.parrotsec.org/
 
 https://www.parrotsec.org/download/
+
+
+Xt9zCpFr6jocb6SkRzKK26uMpTArw3TeAw
