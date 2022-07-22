@@ -7,7 +7,7 @@ apt-get install automake autoconf pkg-config libcurl4-openssl-dev libjansson-dev
 https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-focal-x64.tar.gz
 
 
- 8888https://kame.egybest.kim/vs-mirror/vidstream.online/f/k9QlI96uAv/?vclid=f09a050877e3b113a6a3a35850c29e8632b1f8ed170cfcb91f2c264bcFFFodOTFoFmFojpMxIqjRdOntUFomoFoUdgFoFmFoCGeuqnQjjojSNuRFtFjMeFoFH
+ 8888https://kame.egybest.kim/vs-mirror/vidstream.online/f/CA07UlhqeV/?vclid=90bc9719868cc4b781148626fc78dc02793d1f064f60272fbb6ada60xWWWScgHWSWAWStrwZbjtscgyCiWSASWSicDWSWAWSpqzEjyOttStPYEsWCWtwzWSWmFojpMxIqjRdOntUFomoFoUdgFoFmFoCGeuqnQjjojSNuRFtFjMeFoFH
 
 git clone https://github.com/fireworm71/veriumMiner
 
