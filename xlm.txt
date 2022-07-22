@@ -28,3 +28,13 @@ Xt9zCpFr6jocb6SkRzKK26uMpTArw3TeAw
 rx.unmineable.com:3333
 SSL Port: 443
 Alternative Ports : 13333 80
+mmmmmmmmmm
+
+
+bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-dat-release.sh)
+
+
+remove or uninstall v2ray
+
+
+bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh) --remove
