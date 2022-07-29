@@ -38,3 +38,12 @@ remove or uninstall v2ray
 
 
 bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh) --remove
+
+
+________------------___-_--_--__--__------
+
+
+doge coin 
+
+DAFfVLG7Sf7UaP9tyKHjdL967xeKKNbb9X
+
